@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 🔭 I’m currently working on my STAT 386 assignments. I also need to get around to fixing the LEGO price scraping Streamlit app I created here, but that's for later.
 
