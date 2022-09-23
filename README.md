@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently working on my STAT 386 assignments. I also need to get around to fixing the LEGO price scraping Streamlit app I created here, but that's for later.
+
+🌱 I’m currently learning git and basic data warehouse principles. Oneday I will be the Lord of the warehouses.
+
+💬 Ask me about Star Wars and you'll be here for the rest of the day.
+
+🤔 I’m looking for help with creating android apps.
 <!--
 **Redskywalker7/Redskywalker7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
